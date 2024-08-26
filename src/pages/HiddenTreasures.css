@@ -50,8 +50,15 @@ ul {
 
 .whysolanadiv {
     background-color: orange;
-}
+box-sizing: border-box
+;}
 .svgclass{
     display: flex;
+    margin-top: 3px;
     flex-direction: column;
+    
+}
+.svgclass>svg{
+    margin-top: 3px;
+
 }
