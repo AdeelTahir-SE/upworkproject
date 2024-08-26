@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Navbar from './components/navbar.jsx'
+import Navbar from './components/Navbar.jsx'
 import './App.css'
 import HiddenTreasures from './pages/HiddenTreasures.jsx'
 import Footer from './components/Footer.jsx'
